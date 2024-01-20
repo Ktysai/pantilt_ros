@@ -27,7 +27,7 @@
 
 			<!-- baza robotului GEOMETRIE-->
 			<geometry>
-				<mesh filename="package://robotel/meshes/baza.STL"/>
+				<mesh filename="package://pantilt_ros/meshes/baza.STL"/>
 				<!-- <box size="1 1 0.05"/> -->
 			</geometry>
 			<material name="red"/>
