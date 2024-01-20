@@ -115,7 +115,7 @@
 		<origin xyz="0 0 1"/>
 		<!-- e relativa distanta de la originea link1 la link2 -->
 		<!-- setari limite alte cuplului, vitezei unghiuri limita ale cuplei
-        	aici cupla are limita de -60deg...+60deg valorile sunt trecute in radiani
+        	aici cupla are limita de 0deg...+180deg valorile sunt trecute in radiani
         	 -->
 		<axis xyz="0 1 0" />
 		<limit effort="300" velocity="0.1" lower="0" upper="3.14"/>
