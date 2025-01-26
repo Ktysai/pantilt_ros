@@ -46,7 +46,7 @@
 
 			<!-- baza robotului GEOMETRIE-->
 			<geometry>
-				<mesh filename="package://pantilt_ros/pan_stalp.STL"/>
+				<mesh filename="package://pantilt_ros/meshes/pan_stalp.STL"/>
 				<!-- <box size="0.1 0.1 1"/> -->
 			</geometry>
 			<material name="yellow"/>
